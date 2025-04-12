@@ -1,4 +1,4 @@
-TT# 📚 StudyNotion – Full-Stack EdTech Platform
+# 📚 StudyNotion – Full-Stack EdTech Platform
 
 **StudyNotion** is a fully-featured EdTech platform built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js). It allows users to explore and purchase courses, while instructors can create and manage their own content. The project is containerized using **Docker** and can be easily run using **Docker Compose** for local or cloud deployments.
 
